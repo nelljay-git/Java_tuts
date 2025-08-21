@@ -1,3 +1,28 @@
+/*
+PROBLEM:
+Write a program that implements a Queue (First-In-First-Out).
+
+Operations to Support
+insert(q, x) x → Add x to the queue. //
+
+x=remove(q);→ Remove front element. If empty, print Queue Underflow. //
+
+empty(q)→ Print true if the queue is empty, else false. //
+
+DISPLAY → Print all elements from front to rear. //
+
+Input
+First line: an integer N (number of operations).
+
+Next N lines: operations in the format given during the lesson
+
+Output
+Print the result for each operation that requires output.
+
+	*/
+
+
+
 package NellPkg.Queue;
 
 import java.util.*;
